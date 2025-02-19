@@ -1,0 +1,111 @@
+project;merge commit;className;method;left modifications;has_build;left deletions;right modifications;right deletions;realistic case path
+unirest-java;dd532cf17f17fba254562c029848558c8c04b79c;kong.tests.AssertTest;assertHeader();[81, 83];TRUE;[];[81, 83];[];
+unirest-java;dd532cf17f17fba254562c029848558c8c04b79c;kong.tests.AssertTest;assertBody();[150, 152, 154];TRUE;[];[150, 152, 154];[];
+unirest-java;dd532cf17f17fba254562c029848558c8c04b79c;kong.tests.AssertTest;canAssertANumberOfTimes();[51, 45, 47];TRUE;[];[51, 45, 47];[];
+unirest-java;a354dd6248987d23dfa416f5c1e4d0e2ddbee799;com.mashape.unirest.test.http.UnirestTest;testDefaultHeaders();[349];TRUE;[];[355, 356, 342];[];
+unirest-java;5dea3b35da4430409305fc4e03660375b0c2910a;BehaviorTests.BddTest;setUp();[51];TRUE;[];[];[];
+unirest-java;5dea3b35da4430409305fc4e03660375b0c2910a;BehaviorTests.LifeCycleTest;canDetectIfSystemIsRunning();[163, 166];TRUE;[];[];[];
+unirest-java;5dea3b35da4430409305fc4e03660375b0c2910a;BehaviorTests.LifeCycleTest;willReinitIfLibraryIsUsedAfterShutdown();[172];TRUE;[];[];[];
+metadata-extractor;89b5ede4f1a697abd3caf297ba5c292c2b074256;com.drew.metadata.exif.makernotes.AppleMakernoteDirectory;static block;[51, 54, 55];TRUE;[];[51, 54, 55];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.support.GitSkipSslValidationCredentialsProviderTest;testGetUnrelatedCredentialItemTypes();[163, 164, 158];TRUE;[];[163, 164, 158];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.MultipleJGitEnvironmentApplicationPlaceholderRepositoryTests;createRepository(String, String, String);[74];TRUE;[];[74];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.MultipleJGitEnvironmentApplicationPlaceholderRepositoryTests;repository;[47];TRUE;[];[47];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.EnvironmentEncryptorEnvironmentRepository;EnvironmentEncryptorEnvironmentRepository(EnvironmentRepository, List<EnvironmentEncryptor>);[53];TRUE;[];[53];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests;shouldDecryptEnvironment();[65, 54, 55, 62];TRUE;[];[65, 54, 55, 62];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests;shouldDecryptEnvironmentWithKey();[82, 85, 73, 74];TRUE;[];[82, 85, 73, 74];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests;shouldDecryptEnvironmentIncludeOrigin();[113, 118, 106, 107];TRUE;[];[113, 118, 106, 107];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests;shouldBeAbleToUseNullAsPropertyValue();[99, 92, 93];TRUE;[];[99, 92, 93];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;httpProxy_placeholderUrl();[161, 162, 164, 166, 167];TRUE;[];[161, 162, 164, 166, 167];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;httpProxy();[150, 155, 156];TRUE;[];[150, 155, 156];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;authenticatedHttpsProxy();[98, 99, 93];TRUE;[];[98, 99, 93];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;httpProxy_called_for_https_request_when_no_httpsProxy_specified();[177, 178, 172];TRUE;[];[177, 178, 172];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;httpProxy_fromSystemProperty();[185, 203, 204];TRUE;[];[185, 203, 204];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;httpsProxy_placeholderUrl();[116, 117, 119, 122, 123];TRUE;[];[116, 117, 119, 122, 123];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;makeRequest(HttpClient, String);[240, 236, 237, 238, 239];TRUE;[];[240, 236, 237, 238, 239];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;authenticatedHttpProxy();[144, 145, 139];TRUE;[];[144, 145, 139];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;httpsProxy();[105, 110, 111];TRUE;[];[105, 110, 111];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests;httpsProxy_called_for_http_request_when_no_httpProxy_specified();[128, 133, 134];TRUE;[];[128, 133, 134];[];
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.JGitEnvironmentRepository;initClonedRepository();[370, 377];TRUE;[];[370, 377];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.server.environment.JGitEnvironmentRepository;JGitEnvironmentRepository(ConfigurableEnvironment, JGitEnvironmentProperties);[164];TRUE;[];[164];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigClientRequestTemplateFactory;createHttpRequestFactory(ConfigClientProperties);[93];TRUE;[];[92, 93];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigClientProperties;extractCredentials(int);[342];TRUE;[];[342];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServerConfigDataLoader;load(ConfigDataLoaderContext, ConfigServerConfigDataResource);[96, 97, 95];TRUE;[];[96, 97, 95];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServerConfigDataLoader;getRemoteEnvironment(ConfigDataLoaderContext, ConfigServerConfigDataResource, String, String);[320, 308, 309, 310, 311, 312, 313, 314];TRUE;[];[320, 308, 309, 310, 311, 312, 313, 314];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigClientPropertiesTests;checkIfExceptionThrownForNegativeIndex();[148, 150, 151];TRUE;[];[148, 150, 151];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigClientPropertiesTests;checkIfExceptionThrownForIndexEqualToLength();[164, 166, 167];TRUE;[];[164, 166, 167];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigClientPropertiesTests;checkIfExceptionThrownForPositiveInvalidIndex();[156, 158, 159];TRUE;[];[156, 158, 159];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigClientRetryBootstrapper;initialize(BootstrapRegistry);[48, 49, 50, 51, 52, 47];TRUE;[];[48, 49, 50, 51, 52, 47];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.tls.AppRunner;availabeTcpPort();[58];TRUE;[];[58];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.DiscoveryClientConfigServiceBootstrapConfigurationNoSpringRetryTests;shouldFailWithExceptionGetConfigServerInstanceFromDiscoveryClient();[32, 33, 34, 35, 31];TRUE;[];[32, 33, 34, 35, 31];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.DiscoveryClientConfigServiceBootstrapConfigurationTests;shouldRetryAndFailWithExceptionGetConfigServerInstanceFromDiscoveryClient();[182, 183, 185, 186];TRUE;[];[182, 183, 185, 186];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServicePropertySourceLocator;getRemoteEnvironment(ConfigClientRequestTemplateFactory, String, String);[289, 290, 291, 292, 293, 294, 295, 301];TRUE;[];[289, 290, 291, 292, 293, 294, 295, 301];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.tls.ConfigClientTlsTests;nonExistKeyStoreCauseFailure();[133, 137, 138];TRUE;[];[133, 137, 138];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.tls.ConfigClientTlsTests;wrongPasswordCauseFailure();[128, 123, 127];TRUE;[];[128, 123, 127];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests;shouldThrowExceptionWhenNegativeReadTimeoutSet();[266, 269, 270];TRUE;[];[266, 269, 270];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests;sunnyDayWithNoSuchLabelAndFailFast();[146, 147, 139];TRUE;[];[146, 147, 139];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests;shouldThrowExceptionWhenPasswordAndAuthorizationBothSet();[259, 260, 261, 253];TRUE;[];[259, 260, 261, 253];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests;failFast();[160, 161, 162, 167, 168, 169, 170];TRUE;[];[160, 161, 162, 167, 168, 169, 170];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests;shouldThrowExceptionWhenNegativeConnectTimeoutSet();[275, 278, 279];TRUE;[];[275, 278, 279];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests;failFastWhenBothPasswordAndAuthorizationPropertiesSet();[213, 214, 215, 202];TRUE;[];[213, 214, 215, 202];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.monitor.FileMonitorConfigurationTest;createScmEnvironmentRepository(String);[164];TRUE;[];[164];[]
+spring-cloud-config;9810538bf516aedc858574f67cf9bbb8afa7f229;org.springframework.cloud.config.monitor.FileMonitorConfigurationTest;createNativeEnvironmentRepository();[157];TRUE;[];[157];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;addShortTableName(String, String);[285];TRUE;[];[285];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;logicDeletePartitionInfoByRangeId(String, String);[254];TRUE;[];[254];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;updateTableShortName(String, String, String);[311, 317];TRUE;[];[311, 317];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;deleteShortTableName(String, String);[281];TRUE;[];[281];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;getSinglePartitionInfo(String, String, int);[150];TRUE;[];[150];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;commitData(MetaInfo, boolean, String);[416, 403, 339, 407, 345, 410, 330, 331, 413];TRUE;[];[416, 403, 339, 407, 345, 410, 330, 331, 413];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;shortTableName(String);[83];TRUE;[];[83];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;deleteTableInfo(String, String);[224];TRUE;[];[224];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;compactionConflict(String, List<String>, Map<String,PartitionInfo>, Map<String,PartitionInfo>, int);[512];TRUE;[];[512, 514];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;isTableIdExists(String, String);[79];TRUE;[];[79];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;getTableInfoByName(String);[95];TRUE;[];[95];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;appendConflict(String, List<String>, Map<String,PartitionInfo>, Map<String,PartitionInfo>, int);[457];TRUE;[];[457, 459];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;getTablePathFromShortTableName(String);[87];TRUE;[];[87];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;logicDeletePartitionInfoByTableId(String);[243, 247];TRUE;[];[243, 247];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;updateConflict(String, List<String>, Map<String,PartitionInfo>, Map<String,PartitionInfo>, int);[552];TRUE;[];[552, 554];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;getSinglePartitionInfo(String, String);[145];TRUE;[];[145];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;DBManager();[42];TRUE;[];[42];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;mergeConflict(String, List<String>, Map<String,PartitionInfo>, Map<String,PartitionInfo>, int);[593];TRUE;[];[593, 595];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;createNewTable(String, String, String, String, JSONObject, String);[115, 120, 107, 125];TRUE;[];[115, 120, 107, 125];[]
+LakeSoul;52ee67b1e630d2cfad4d96b7ef2fa61a774534f1;com.dmetasoul.lakesoul.meta.DBManager;listTables();[133];TRUE;[];[133];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;map(Object);[2953];TRUE;[];[2953];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;forEach(Object);[612];TRUE;[];[612];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;subscribe(Object, Object);[380];TRUE;[];[380];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;filter(Object);[2782];TRUE;[];[2782];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;subscribe(Object);[307];TRUE;[];[307];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;onErrorReturn(Object);[3195];TRUE;[];[3195];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;forEach(Action1<T>);[543];TRUE;[];[543];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;onErrorResumeNext(Object);[3113];TRUE;[];[3113];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;subscribe(Action1<T>, Action1<Exception>);[414];TRUE;[];[414];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;subscribe(Action1<T>, Action1<Exception>, Action0);[493];TRUE;[];[493];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;subscribe(Map<String,Object>);[258];TRUE;[];[258];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;subscribe(Action1<T>);[339];TRUE;[];[339];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;mapMany(Object);[3004];TRUE;[];[3004];[]
+RxJava;bafd440040db4097205b7105a777c2ab4f5af16f;rx.Observable;subscribe(Object, Object, Object);[457];TRUE;[];[457];[]
+RxJava;27f72d4b886ee6a44d4265fbd02b2d110f1cd97d;rx.Observable;forEach(Action1<T>);[543];TRUE;[];[543];[]
+RxJava;27f72d4b886ee6a44d4265fbd02b2d110f1cd97d;rx.Observable;onErrorResumeNext(Object);[3118];TRUE;[];[3118];[]
+RxJava;27f72d4b886ee6a44d4265fbd02b2d110f1cd97d;rx.Observable;subscribe(Action1<T>, Action1<Exception>);[414];TRUE;[];[414];[]
+RxJava;27f72d4b886ee6a44d4265fbd02b2d110f1cd97d;rx.Observable;subscribe(Action1<T>, Action1<Exception>, Action0);[493];TRUE;[];[493];[]
+RxJava;27f72d4b886ee6a44d4265fbd02b2d110f1cd97d;rx.Observable;subscribe(Map<String,Object>);[258];TRUE;[];[258];[]
+RxJava;27f72d4b886ee6a44d4265fbd02b2d110f1cd97d;rx.Observable;subscribe(Action1<T>);[339];TRUE;[];[339];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.write.style.column.LongestMatchColumnWidthStyleStrategy;dataLength(CellData, Cell, boolean);[61];TRUE;[];[61];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.longconverter.LongNumberConverter;convertToExcelData(Long, ExcelContentProperty, GlobalConfiguration);[37];TRUE;[];[37];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.longconverter.LongNumberConverter;convertToJavaData(CellData, ExcelContentProperty, GlobalConfiguration);[31];TRUE;[];[31];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.date.DateNumberConverter;convertToJavaData(CellData, ExcelContentProperty, GlobalConfiguration);[35];TRUE;[];[35];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.date.DateNumberConverter;convertToExcelData(Date, ExcelContentProperty, GlobalConfiguration);[48, 49, 50, 51, 52, 46, 47];TRUE;[];[48, 49, 50, 51, 52, 46, 47];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.metadata.CellData;CellData(CellData);[65, 66, 67, 55, 87, 58, 91, 47];TRUE;[];[47];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.metadata.CellData;toString();[230];TRUE;[];[230];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.metadata.CellData;CellData(Double);[66, 67, 55, 87, 58, 91, 61, 47];TRUE;[];[87, 91];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.metadata.CellData;checkEmpty();[213];TRUE;[];[213];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.bigdecimal.BigDecimalNumberConverter;convertToJavaData(CellData, ExcelContentProperty, GlobalConfiguration);[31];TRUE;[];[31];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.bigdecimal.BigDecimalNumberConverter;convertToExcelData(BigDecimal, ExcelContentProperty, GlobalConfiguration);[37];TRUE;[];[37];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.floatconverter.FloatNumberConverter;convertToExcelData(Float, ExcelContentProperty, GlobalConfiguration);[37];TRUE;[];[37];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.floatconverter.FloatNumberConverter;convertToJavaData(CellData, ExcelContentProperty, GlobalConfiguration);[31];TRUE;[];[31];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.easyexcel.test.temp.simple.HgTest;hh();[];TRUE;[];[27];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.byteconverter.ByteNumberConverter;convertToExcelData(Byte, ExcelContentProperty, GlobalConfiguration);[37];TRUE;[];[37];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.byteconverter.ByteNumberConverter;convertToJavaData(CellData, ExcelContentProperty, GlobalConfiguration);[31];TRUE;[];[31];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.write.ExcelBuilderImpl;converterAndSet(WriteHolder, Class, Cell, Object, ExcelContentProperty);[295, 312, 317];TRUE;[];[312];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.analysis.v07.handlers.DefaultCellHandler;appendCurrentCellValue(String);[168, 169];TRUE;[];[168, 169, 138];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.analysis.v03.handlers.NumberRecordHandler;processRecord(Record);[34];TRUE;[];[34];[]
+easyexcel;fd860956d9e195079d730a047023b1ce9f9dcdff;com.alibaba.excel.converters.doubleconverter.DoubleNumberConverter;convertToExcelData(Double, ExcelContentProperty, GlobalConfiguration);[37];TRUE;[];[37];[]
