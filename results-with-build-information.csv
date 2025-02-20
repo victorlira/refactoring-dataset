@@ -585,7 +585,7 @@ nacos;8143608e7df2ea9aa6f5678f73c29807319ffed1;com.alibaba.nacos.common.remote.c
 hutool;8da20d76389754889cd302ce3f54561a2380588a;cn.hutool.core.io.FileUtil;file(String);[];TRUE;[];[];[]
 hutool;8da20d76389754889cd302ce3f54561a2380588a;cn.hutool.core.io.FileUtil;file(File, String);[];TRUE;[];[];[]
 hutool;72758e61a6ef3933ec851b0317b3a3de2a36d60d;cn.hutool.core.bean.BeanUtil;hasSetter(Class<?>);[91, 92];TRUE;[];[91, 92];[]
-hutool;72758e61a6ef3933ec851b0317b3a3de2a36d60d;cn.hutool.core.bean.BeanUtil;hasGetter(Class<?>);[112];[];TRUE;[112];[]
+hutool;72758e61a6ef3933ec851b0317b3a3de2a36d60d;cn.hutool.core.bean.BeanUtil;hasGetter(Class<?>);[112];TRUE;[];[112];[]
 hutool;72758e61a6ef3933ec851b0317b3a3de2a36d60d;cn.hutool.core.lang.RegexPool;CHINESE;[26];TRUE;[];[26];[]
 hutool;72758e61a6ef3933ec851b0317b3a3de2a36d60d;cn.hutool.core.collection.CollStreamUtilTest;testGroupBy();[207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219];TRUE;[];[207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219];[]
 hutool;72758e61a6ef3933ec851b0317b3a3de2a36d60d;cn.hutool.core.lang.ValidatorTest;isChineseTest();[165];TRUE;[];[165];[]
