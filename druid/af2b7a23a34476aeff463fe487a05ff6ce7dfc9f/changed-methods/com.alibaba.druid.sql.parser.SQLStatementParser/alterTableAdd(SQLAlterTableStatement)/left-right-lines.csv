@@ -1,0 +1,6 @@
+com.alibaba.druid.sql.parser.SQLStatementParser,sink,2497
+com.alibaba.druid.sql.parser.SQLStatementParser,sink,2498
+com.alibaba.druid.sql.parser.SQLStatementParser,sink,2499
+com.alibaba.druid.sql.parser.SQLStatementParser,source,2497
+com.alibaba.druid.sql.parser.SQLStatementParser,source,2498
+com.alibaba.druid.sql.parser.SQLStatementParser,source,2499

@@ -1,0 +1,2 @@
+com.alibaba.otter.canal.parse.inbound.mysql.MysqlEventParser,sink,760
+com.alibaba.otter.canal.parse.inbound.mysql.MysqlEventParser,source,760

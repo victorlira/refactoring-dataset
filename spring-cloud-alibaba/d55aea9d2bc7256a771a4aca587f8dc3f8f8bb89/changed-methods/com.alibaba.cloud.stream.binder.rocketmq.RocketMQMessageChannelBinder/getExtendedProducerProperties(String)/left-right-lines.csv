@@ -1,0 +1,2 @@
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,sink,194
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,source,194

@@ -1,0 +1,4 @@
+com.alibaba.cloud.stream.binder.rocketmq.actuator.RocketMQBinderHealthIndicator,sink,33
+com.alibaba.cloud.stream.binder.rocketmq.actuator.RocketMQBinderHealthIndicator,sink,44
+com.alibaba.cloud.stream.binder.rocketmq.actuator.RocketMQBinderHealthIndicator,source,33
+com.alibaba.cloud.stream.binder.rocketmq.actuator.RocketMQBinderHealthIndicator,source,44

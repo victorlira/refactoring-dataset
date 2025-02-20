@@ -1,0 +1,3 @@
+com.alibaba.cloud.nacos.discovery.NacosServiceDiscovery,sink,98
+com.alibaba.cloud.nacos.discovery.NacosServiceDiscovery,source,97
+com.alibaba.cloud.nacos.discovery.NacosServiceDiscovery,source,95

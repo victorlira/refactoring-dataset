@@ -1,0 +1,8 @@
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsBinlogEventParserProxy,source,120
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsBinlogEventParserProxy,source,123
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsBinlogEventParserProxy,source,124
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsBinlogEventParserProxy,source,125
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsBinlogEventParserProxy,sink,120
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsBinlogEventParserProxy,sink,123
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsBinlogEventParserProxy,sink,124
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsBinlogEventParserProxy,sink,125

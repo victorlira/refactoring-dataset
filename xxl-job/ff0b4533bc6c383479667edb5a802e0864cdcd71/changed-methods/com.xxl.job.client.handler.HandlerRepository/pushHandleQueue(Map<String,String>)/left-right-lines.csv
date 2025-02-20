@@ -1,0 +1,14 @@
+com.xxl.job.client.handler.HandlerRepository,sink,48
+com.xxl.job.client.handler.HandlerRepository,sink,53
+com.xxl.job.client.handler.HandlerRepository,sink,54
+com.xxl.job.client.handler.HandlerRepository,sink,55
+com.xxl.job.client.handler.HandlerRepository,sink,56
+com.xxl.job.client.handler.HandlerRepository,sink,46
+com.xxl.job.client.handler.HandlerRepository,sink,47
+com.xxl.job.client.handler.HandlerRepository,source,48
+com.xxl.job.client.handler.HandlerRepository,source,53
+com.xxl.job.client.handler.HandlerRepository,source,54
+com.xxl.job.client.handler.HandlerRepository,source,55
+com.xxl.job.client.handler.HandlerRepository,source,56
+com.xxl.job.client.handler.HandlerRepository,source,46
+com.xxl.job.client.handler.HandlerRepository,source,47

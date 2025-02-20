@@ -1,0 +1,4 @@
+org.apache.skywalking.apm.collector.ui.service.SpanService,sink,110
+org.apache.skywalking.apm.collector.ui.service.SpanService,source,64
+org.apache.skywalking.apm.collector.ui.service.SpanService,source,62
+org.apache.skywalking.apm.collector.ui.service.SpanService,source,110

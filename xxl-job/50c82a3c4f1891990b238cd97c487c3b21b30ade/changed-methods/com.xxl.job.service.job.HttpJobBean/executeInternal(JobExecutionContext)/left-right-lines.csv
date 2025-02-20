@@ -1,0 +1,10 @@
+com.xxl.job.service.job.HttpJobBean,sink,38
+com.xxl.job.service.job.HttpJobBean,sink,55
+com.xxl.job.service.job.HttpJobBean,sink,39
+com.xxl.job.service.job.HttpJobBean,sink,72
+com.xxl.job.service.job.HttpJobBean,sink,40
+com.xxl.job.service.job.HttpJobBean,source,38
+com.xxl.job.service.job.HttpJobBean,source,55
+com.xxl.job.service.job.HttpJobBean,source,39
+com.xxl.job.service.job.HttpJobBean,source,72
+com.xxl.job.service.job.HttpJobBean,source,40

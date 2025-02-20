@@ -1,0 +1,2 @@
+org.apache.skywalking.apm.collector.storage.h2.dao.ampp.AbstractApplicationMappingH2PersistenceDAO,source,55
+org.apache.skywalking.apm.collector.storage.h2.dao.ampp.AbstractApplicationMappingH2PersistenceDAO,sink,55

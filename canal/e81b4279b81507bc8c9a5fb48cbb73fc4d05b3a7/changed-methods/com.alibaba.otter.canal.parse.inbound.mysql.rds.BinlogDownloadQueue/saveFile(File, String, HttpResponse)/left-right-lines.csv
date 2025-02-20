@@ -1,0 +1,10 @@
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,sink,230
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,sink,231
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,sink,232
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,sink,250
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,sink,251
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,source,230
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,source,231
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,source,232
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,source,250
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,source,251

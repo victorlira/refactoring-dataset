@@ -1,0 +1,2 @@
+com.alibaba.otter.canal.parse.inbound.mysql.MysqlMultiStageCoprocessor,source,142
+com.alibaba.otter.canal.parse.inbound.mysql.MysqlMultiStageCoprocessor,sink,142

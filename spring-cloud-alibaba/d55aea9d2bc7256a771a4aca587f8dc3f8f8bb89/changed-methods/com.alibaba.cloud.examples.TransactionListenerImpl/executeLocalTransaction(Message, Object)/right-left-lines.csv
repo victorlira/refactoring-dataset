@@ -1,0 +1,14 @@
+com.alibaba.cloud.examples.TransactionListenerImpl,source,34
+com.alibaba.cloud.examples.TransactionListenerImpl,source,37
+com.alibaba.cloud.examples.TransactionListenerImpl,source,38
+com.alibaba.cloud.examples.TransactionListenerImpl,source,41
+com.alibaba.cloud.examples.TransactionListenerImpl,source,42
+com.alibaba.cloud.examples.TransactionListenerImpl,source,44
+com.alibaba.cloud.examples.TransactionListenerImpl,source,45
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,34
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,37
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,38
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,41
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,42
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,44
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,45

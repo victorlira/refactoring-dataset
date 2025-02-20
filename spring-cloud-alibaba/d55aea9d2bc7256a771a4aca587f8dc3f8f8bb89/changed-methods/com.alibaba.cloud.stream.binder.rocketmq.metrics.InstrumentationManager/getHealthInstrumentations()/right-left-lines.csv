@@ -1,0 +1,2 @@
+com.alibaba.cloud.stream.binder.rocketmq.metrics.InstrumentationManager,source,35
+com.alibaba.cloud.stream.binder.rocketmq.metrics.InstrumentationManager,sink,35

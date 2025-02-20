@@ -1,0 +1,2 @@
+org.apache.skywalking.apm.collector.storage.h2.define.appmapping.AbstractApplicationMappingH2TableDefine,source,38
+org.apache.skywalking.apm.collector.storage.h2.define.appmapping.AbstractApplicationMappingH2TableDefine,sink,38

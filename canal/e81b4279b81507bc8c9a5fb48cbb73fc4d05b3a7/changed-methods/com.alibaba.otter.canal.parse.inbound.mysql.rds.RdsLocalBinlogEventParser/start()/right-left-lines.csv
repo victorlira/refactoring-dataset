@@ -1,0 +1,2 @@
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsLocalBinlogEventParser,source,68
+com.alibaba.otter.canal.parse.inbound.mysql.rds.RdsLocalBinlogEventParser,sink,68

@@ -1,0 +1,8 @@
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQAutoConfigurationTests,sink,50
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQAutoConfigurationTests,sink,51
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQAutoConfigurationTests,sink,38
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQAutoConfigurationTests,sink,45
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQAutoConfigurationTests,source,50
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQAutoConfigurationTests,source,51
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQAutoConfigurationTests,source,38
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQAutoConfigurationTests,source,45

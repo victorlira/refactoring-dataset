@@ -1,0 +1,8 @@
+org.apache.skywalking.apm.collector.ui.service.ApplicationService,sink,43
+org.apache.skywalking.apm.collector.ui.service.ApplicationService,sink,45
+org.apache.skywalking.apm.collector.ui.service.ApplicationService,sink,46
+org.apache.skywalking.apm.collector.ui.service.ApplicationService,sink,47
+org.apache.skywalking.apm.collector.ui.service.ApplicationService,source,43
+org.apache.skywalking.apm.collector.ui.service.ApplicationService,source,45
+org.apache.skywalking.apm.collector.ui.service.ApplicationService,source,46
+org.apache.skywalking.apm.collector.ui.service.ApplicationService,source,47

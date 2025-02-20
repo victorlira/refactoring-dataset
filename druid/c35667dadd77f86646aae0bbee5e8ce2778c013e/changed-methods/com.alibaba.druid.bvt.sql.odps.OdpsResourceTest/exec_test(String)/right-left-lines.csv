@@ -1,0 +1,4 @@
+com.alibaba.druid.bvt.sql.odps.OdpsResourceTest,source,66
+com.alibaba.druid.bvt.sql.odps.OdpsResourceTest,source,76
+com.alibaba.druid.bvt.sql.odps.OdpsResourceTest,sink,66
+com.alibaba.druid.bvt.sql.odps.OdpsResourceTest,sink,76

@@ -1,0 +1,4 @@
+com.xxl.job.client.handler.HandlerThread,sink,80
+com.xxl.job.client.handler.HandlerThread,sink,118
+com.xxl.job.client.handler.HandlerThread,sink,58
+com.xxl.job.client.handler.HandlerThread,source,80

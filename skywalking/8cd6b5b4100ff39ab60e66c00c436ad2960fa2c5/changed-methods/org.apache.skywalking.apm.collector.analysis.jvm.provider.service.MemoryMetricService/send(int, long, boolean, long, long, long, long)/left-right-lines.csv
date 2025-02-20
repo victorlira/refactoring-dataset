@@ -1,0 +1,2 @@
+org.apache.skywalking.apm.collector.analysis.jvm.provider.service.MemoryMetricService,sink,50
+org.apache.skywalking.apm.collector.analysis.jvm.provider.service.MemoryMetricService,source,50

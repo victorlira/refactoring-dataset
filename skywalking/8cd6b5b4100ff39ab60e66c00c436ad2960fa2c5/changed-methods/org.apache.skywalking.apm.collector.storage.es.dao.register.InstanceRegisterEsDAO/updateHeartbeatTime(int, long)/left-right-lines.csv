@@ -1,0 +1,2 @@
+org.apache.skywalking.apm.collector.storage.es.dao.register.InstanceRegisterEsDAO,sink,80
+org.apache.skywalking.apm.collector.storage.es.dao.register.InstanceRegisterEsDAO,source,80

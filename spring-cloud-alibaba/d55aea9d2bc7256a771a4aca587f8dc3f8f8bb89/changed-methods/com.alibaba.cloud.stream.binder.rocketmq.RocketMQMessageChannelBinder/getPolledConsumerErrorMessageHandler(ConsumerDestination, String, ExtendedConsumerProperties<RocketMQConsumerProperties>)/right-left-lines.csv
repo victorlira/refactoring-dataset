@@ -1,0 +1,14 @@
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,source,164
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,source,165
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,source,166
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,source,167
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,source,168
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,source,169
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,source,170
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,sink,164
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,sink,165
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,sink,166
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,sink,167
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,sink,168
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,sink,169
+com.alibaba.cloud.stream.binder.rocketmq.RocketMQMessageChannelBinder,sink,170

@@ -1,0 +1,2 @@
+org.apache.skywalking.apm.collector.storage.es.define.appmapping.AbstractApplicationMappingEsTableDefine,source,37
+org.apache.skywalking.apm.collector.storage.es.define.appmapping.AbstractApplicationMappingEsTableDefine,sink,37

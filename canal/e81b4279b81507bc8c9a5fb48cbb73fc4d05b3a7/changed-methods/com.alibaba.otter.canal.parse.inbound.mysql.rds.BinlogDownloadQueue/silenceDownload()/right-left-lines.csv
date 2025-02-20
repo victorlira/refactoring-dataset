@@ -1,0 +1,4 @@
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,source,99
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,source,100
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,sink,99
+com.alibaba.otter.canal.parse.inbound.mysql.rds.BinlogDownloadQueue,sink,100

@@ -1,0 +1,4 @@
+com.taobao.tddl.dbsync.binlog.FileLogFetcher,sink,171
+com.taobao.tddl.dbsync.binlog.FileLogFetcher,sink,173
+com.taobao.tddl.dbsync.binlog.FileLogFetcher,source,171
+com.taobao.tddl.dbsync.binlog.FileLogFetcher,source,173

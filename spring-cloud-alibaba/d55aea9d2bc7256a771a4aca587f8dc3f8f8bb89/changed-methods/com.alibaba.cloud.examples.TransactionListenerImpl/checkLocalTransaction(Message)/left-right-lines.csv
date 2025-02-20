@@ -1,0 +1,4 @@
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,50
+com.alibaba.cloud.examples.TransactionListenerImpl,sink,51
+com.alibaba.cloud.examples.TransactionListenerImpl,source,50
+com.alibaba.cloud.examples.TransactionListenerImpl,source,51
