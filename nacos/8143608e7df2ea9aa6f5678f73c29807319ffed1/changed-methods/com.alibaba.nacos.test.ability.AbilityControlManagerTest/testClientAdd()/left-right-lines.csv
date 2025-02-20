@@ -1,0 +1,10 @@
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,sink,64
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,sink,65
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,sink,66
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,sink,72
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,sink,73
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,source,64
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,source,65
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,source,66
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,source,72
+com.alibaba.nacos.test.ability.AbilityControlManagerTest,source,73

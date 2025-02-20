@@ -1,0 +1,4 @@
+io.netty.testsuite.transport.AbstractSocketFixedLengthEchoTest,source,70
+io.netty.testsuite.transport.AbstractSocketFixedLengthEchoTest,source,92
+io.netty.testsuite.transport.AbstractSocketFixedLengthEchoTest,sink,70
+io.netty.testsuite.transport.AbstractSocketFixedLengthEchoTest,sink,92

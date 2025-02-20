@@ -1,0 +1,6 @@
+io.netty.testsuite.transport.AbstractSocketCompatibleObjectStreamEchoTest,source,98
+io.netty.testsuite.transport.AbstractSocketCompatibleObjectStreamEchoTest,source,101
+io.netty.testsuite.transport.AbstractSocketCompatibleObjectStreamEchoTest,source,78
+io.netty.testsuite.transport.AbstractSocketCompatibleObjectStreamEchoTest,sink,98
+io.netty.testsuite.transport.AbstractSocketCompatibleObjectStreamEchoTest,sink,101
+io.netty.testsuite.transport.AbstractSocketCompatibleObjectStreamEchoTest,sink,78

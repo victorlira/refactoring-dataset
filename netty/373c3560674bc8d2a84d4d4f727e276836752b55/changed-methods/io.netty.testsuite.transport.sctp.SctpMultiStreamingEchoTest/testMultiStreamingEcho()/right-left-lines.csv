@@ -1,0 +1,7 @@
+io.netty.testsuite.transport.sctp.SctpMultiStreamingEchoTest,source,99
+io.netty.testsuite.transport.sctp.SctpMultiStreamingEchoTest,source,85
+io.netty.testsuite.transport.sctp.SctpMultiStreamingEchoTest,source,102
+io.netty.testsuite.transport.sctp.SctpMultiStreamingEchoTest,sink,99
+io.netty.testsuite.transport.sctp.SctpMultiStreamingEchoTest,sink,85
+io.netty.testsuite.transport.sctp.SctpMultiStreamingEchoTest,sink,102
+io.netty.testsuite.transport.sctp.SctpMultiStreamingEchoTest,sink,124

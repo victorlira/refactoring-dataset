@@ -1,0 +1,8 @@
+com.alibaba.nacos.common.remote.client.grpc.GrpcClientTest,sink,52
+com.alibaba.nacos.common.remote.client.grpc.GrpcClientTest,sink,53
+com.alibaba.nacos.common.remote.client.grpc.GrpcClientTest,sink,54
+com.alibaba.nacos.common.remote.client.grpc.GrpcClientTest,sink,55
+com.alibaba.nacos.common.remote.client.grpc.GrpcClientTest,source,52
+com.alibaba.nacos.common.remote.client.grpc.GrpcClientTest,source,53
+com.alibaba.nacos.common.remote.client.grpc.GrpcClientTest,source,54
+com.alibaba.nacos.common.remote.client.grpc.GrpcClientTest,source,55

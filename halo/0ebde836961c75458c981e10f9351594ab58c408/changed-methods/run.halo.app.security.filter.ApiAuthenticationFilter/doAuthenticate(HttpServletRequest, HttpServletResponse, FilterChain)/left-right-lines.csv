@@ -1,0 +1,14 @@
+run.halo.app.security.filter.ApiAuthenticationFilter,sink,59
+run.halo.app.security.filter.ApiAuthenticationFilter,sink,60
+run.halo.app.security.filter.ApiAuthenticationFilter,sink,61
+run.halo.app.security.filter.ApiAuthenticationFilter,sink,45
+run.halo.app.security.filter.ApiAuthenticationFilter,sink,46
+run.halo.app.security.filter.ApiAuthenticationFilter,sink,62
+run.halo.app.security.filter.ApiAuthenticationFilter,sink,63
+run.halo.app.security.filter.ApiAuthenticationFilter,source,59
+run.halo.app.security.filter.ApiAuthenticationFilter,source,60
+run.halo.app.security.filter.ApiAuthenticationFilter,source,61
+run.halo.app.security.filter.ApiAuthenticationFilter,source,45
+run.halo.app.security.filter.ApiAuthenticationFilter,source,46
+run.halo.app.security.filter.ApiAuthenticationFilter,source,62
+run.halo.app.security.filter.ApiAuthenticationFilter,source,63

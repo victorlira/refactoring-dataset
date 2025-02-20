@@ -1,0 +1,6 @@
+net.sf.jsqlparser.statement.select.Join,sink,390
+net.sf.jsqlparser.statement.select.Join,sink,392
+net.sf.jsqlparser.statement.select.Join,sink,424
+net.sf.jsqlparser.statement.select.Join,source,390
+net.sf.jsqlparser.statement.select.Join,source,392
+net.sf.jsqlparser.statement.select.Join,source,424

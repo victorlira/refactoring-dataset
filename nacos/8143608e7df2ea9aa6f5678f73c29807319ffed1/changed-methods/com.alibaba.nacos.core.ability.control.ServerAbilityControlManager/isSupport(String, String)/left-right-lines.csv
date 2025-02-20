@@ -1,0 +1,12 @@
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,sink,86
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,sink,87
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,sink,88
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,sink,89
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,sink,90
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,sink,91
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,source,86
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,source,87
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,source,88
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,source,89
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,source,90
+com.alibaba.nacos.core.ability.control.ServerAbilityControlManager,source,91

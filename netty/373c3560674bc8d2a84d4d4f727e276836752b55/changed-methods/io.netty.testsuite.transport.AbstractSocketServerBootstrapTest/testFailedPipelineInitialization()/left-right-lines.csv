@@ -1,0 +1,4 @@
+io.netty.testsuite.transport.AbstractSocketServerBootstrapTest,sink,180
+io.netty.testsuite.transport.AbstractSocketServerBootstrapTest,sink,189
+io.netty.testsuite.transport.AbstractSocketServerBootstrapTest,source,180
+io.netty.testsuite.transport.AbstractSocketServerBootstrapTest,source,189

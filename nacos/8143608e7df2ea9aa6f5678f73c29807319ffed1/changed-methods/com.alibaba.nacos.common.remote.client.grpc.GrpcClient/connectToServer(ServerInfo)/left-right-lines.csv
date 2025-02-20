@@ -1,0 +1,10 @@
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,sink,322
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,sink,347
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,sink,348
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,sink,349
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,sink,350
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,source,322
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,source,347
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,source,348
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,source,349
+com.alibaba.nacos.common.remote.client.grpc.GrpcClient,source,350

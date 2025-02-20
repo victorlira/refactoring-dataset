@@ -1,0 +1,6 @@
+run.halo.app.event.freemarker.FreemarkerConfigAwareListener,sink,97
+run.halo.app.event.freemarker.FreemarkerConfigAwareListener,sink,98
+run.halo.app.event.freemarker.FreemarkerConfigAwareListener,sink,99
+run.halo.app.event.freemarker.FreemarkerConfigAwareListener,source,97
+run.halo.app.event.freemarker.FreemarkerConfigAwareListener,source,98
+run.halo.app.event.freemarker.FreemarkerConfigAwareListener,source,99

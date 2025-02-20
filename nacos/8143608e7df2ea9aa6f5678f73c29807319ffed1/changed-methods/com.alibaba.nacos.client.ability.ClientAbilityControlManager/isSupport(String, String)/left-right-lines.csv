@@ -1,0 +1,12 @@
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,sink,48
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,sink,49
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,sink,50
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,sink,51
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,sink,53
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,sink,54
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,source,48
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,source,49
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,source,50
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,source,51
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,source,53
+com.alibaba.nacos.client.ability.ClientAbilityControlManager,source,54

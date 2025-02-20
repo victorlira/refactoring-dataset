@@ -1,0 +1,16 @@
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,sink,163
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,sink,115
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,sink,85
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,sink,166
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,sink,118
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,sink,103
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,sink,106
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,sink,109
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,source,163
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,source,115
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,source,85
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,source,166
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,source,118
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,source,103
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,source,106
+io.netty.testsuite.transport.sctp.SctpMultiHomingEchoTest,source,109
