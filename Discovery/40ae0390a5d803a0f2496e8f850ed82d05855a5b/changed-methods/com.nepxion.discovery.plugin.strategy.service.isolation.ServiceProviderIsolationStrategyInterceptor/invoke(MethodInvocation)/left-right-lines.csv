@@ -1,0 +1,8 @@
+com.nepxion.discovery.plugin.strategy.service.isolation.ServiceProviderIsolationStrategyInterceptor,sink,32
+com.nepxion.discovery.plugin.strategy.service.isolation.ServiceProviderIsolationStrategyInterceptor,sink,33
+com.nepxion.discovery.plugin.strategy.service.isolation.ServiceProviderIsolationStrategyInterceptor,sink,34
+com.nepxion.discovery.plugin.strategy.service.isolation.ServiceProviderIsolationStrategyInterceptor,sink,35
+com.nepxion.discovery.plugin.strategy.service.isolation.ServiceProviderIsolationStrategyInterceptor,source,32
+com.nepxion.discovery.plugin.strategy.service.isolation.ServiceProviderIsolationStrategyInterceptor,source,33
+com.nepxion.discovery.plugin.strategy.service.isolation.ServiceProviderIsolationStrategyInterceptor,source,34
+com.nepxion.discovery.plugin.strategy.service.isolation.ServiceProviderIsolationStrategyInterceptor,source,35

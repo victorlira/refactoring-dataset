@@ -1,0 +1,4 @@
+org.mengyun.tcctransaction.unittest.repository.SubAccountRepository,source,19
+org.mengyun.tcctransaction.unittest.repository.SubAccountRepository,source,20
+org.mengyun.tcctransaction.unittest.repository.SubAccountRepository,sink,19
+org.mengyun.tcctransaction.unittest.repository.SubAccountRepository,sink,20

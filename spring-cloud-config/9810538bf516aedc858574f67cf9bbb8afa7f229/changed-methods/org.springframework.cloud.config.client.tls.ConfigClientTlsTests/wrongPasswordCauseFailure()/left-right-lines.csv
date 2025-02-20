@@ -1,0 +1,6 @@
+org.springframework.cloud.config.client.tls.ConfigClientTlsTests,sink,128
+org.springframework.cloud.config.client.tls.ConfigClientTlsTests,sink,123
+org.springframework.cloud.config.client.tls.ConfigClientTlsTests,sink,127
+org.springframework.cloud.config.client.tls.ConfigClientTlsTests,source,128
+org.springframework.cloud.config.client.tls.ConfigClientTlsTests,source,123
+org.springframework.cloud.config.client.tls.ConfigClientTlsTests,source,127

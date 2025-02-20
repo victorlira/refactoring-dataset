@@ -1,0 +1,4 @@
+com.google.errorprone.ErrorProneOptions,sink,66
+com.google.errorprone.ErrorProneOptions,sink,72
+com.google.errorprone.ErrorProneOptions,source,66
+com.google.errorprone.ErrorProneOptions,source,72

@@ -1,0 +1,11 @@
+com.lambdaworks.redis.cluster.ClusterCommand,source,36
+com.lambdaworks.redis.cluster.ClusterCommand,source,37
+com.lambdaworks.redis.cluster.ClusterCommand,source,39
+com.lambdaworks.redis.cluster.ClusterCommand,source,41
+com.lambdaworks.redis.cluster.ClusterCommand,sink,36
+com.lambdaworks.redis.cluster.ClusterCommand,sink,37
+com.lambdaworks.redis.cluster.ClusterCommand,sink,39
+com.lambdaworks.redis.cluster.ClusterCommand,sink,40
+com.lambdaworks.redis.cluster.ClusterCommand,sink,41
+com.lambdaworks.redis.cluster.ClusterCommand,sink,44
+com.lambdaworks.redis.cluster.ClusterCommand,sink,45

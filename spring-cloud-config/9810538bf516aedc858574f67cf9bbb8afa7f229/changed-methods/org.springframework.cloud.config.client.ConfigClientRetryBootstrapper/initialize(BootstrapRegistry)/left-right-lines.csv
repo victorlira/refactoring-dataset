@@ -1,0 +1,12 @@
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,sink,48
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,sink,49
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,sink,50
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,sink,51
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,sink,52
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,sink,47
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,source,48
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,source,49
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,source,50
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,source,51
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,source,52
+org.springframework.cloud.config.client.ConfigClientRetryBootstrapper,source,47

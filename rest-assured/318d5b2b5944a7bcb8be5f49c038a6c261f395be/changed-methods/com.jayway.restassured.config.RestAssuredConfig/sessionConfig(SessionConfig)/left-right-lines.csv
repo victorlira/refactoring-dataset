@@ -1,0 +1,2 @@
+com.jayway.restassured.config.RestAssuredConfig,sink,160
+com.jayway.restassured.config.RestAssuredConfig,source,160

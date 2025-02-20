@@ -1,0 +1,3 @@
+com.hazelcast.internal.partition.StaleReadDuringMigrationTest,sink,80
+com.hazelcast.internal.partition.StaleReadDuringMigrationTest,sink,82
+com.hazelcast.internal.partition.StaleReadDuringMigrationTest,source,80

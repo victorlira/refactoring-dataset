@@ -1,0 +1,2 @@
+com.usthe.collector.collect.database.JdbcCommonCollect,sink,139
+com.usthe.collector.collect.database.JdbcCommonCollect,source,111

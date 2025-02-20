@@ -1,0 +1,4 @@
+com.google.errorprone.bugpatterns.TryFailThrowableTest,sink,46
+com.google.errorprone.bugpatterns.TryFailThrowableTest,sink,47
+com.google.errorprone.bugpatterns.TryFailThrowableTest,source,46
+com.google.errorprone.bugpatterns.TryFailThrowableTest,source,47

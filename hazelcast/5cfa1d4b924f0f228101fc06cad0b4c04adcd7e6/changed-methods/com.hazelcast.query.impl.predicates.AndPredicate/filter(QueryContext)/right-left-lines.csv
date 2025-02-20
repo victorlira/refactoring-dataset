@@ -1,0 +1,6 @@
+com.hazelcast.query.impl.predicates.AndPredicate,source,82
+com.hazelcast.query.impl.predicates.AndPredicate,source,83
+com.hazelcast.query.impl.predicates.AndPredicate,source,85
+com.hazelcast.query.impl.predicates.AndPredicate,sink,82
+com.hazelcast.query.impl.predicates.AndPredicate,sink,83
+com.hazelcast.query.impl.predicates.AndPredicate,sink,85

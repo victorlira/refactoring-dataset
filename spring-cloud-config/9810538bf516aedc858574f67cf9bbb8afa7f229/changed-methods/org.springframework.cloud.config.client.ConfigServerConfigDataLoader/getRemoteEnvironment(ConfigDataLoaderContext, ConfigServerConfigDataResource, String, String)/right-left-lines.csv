@@ -1,0 +1,16 @@
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,320
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,308
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,309
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,310
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,311
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,312
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,313
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,314
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,320
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,308
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,309
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,310
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,311
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,312
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,313
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,314

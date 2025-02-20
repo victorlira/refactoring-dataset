@@ -1,0 +1,16 @@
+com.jayway.restassured.RestAssured,source,1200
+com.jayway.restassured.RestAssured,source,1202
+com.jayway.restassured.RestAssured,source,1204
+com.jayway.restassured.RestAssured,source,1205
+com.jayway.restassured.RestAssured,source,1206
+com.jayway.restassured.RestAssured,source,1207
+com.jayway.restassured.RestAssured,source,1198
+com.jayway.restassured.RestAssured,source,1199
+com.jayway.restassured.RestAssured,sink,1200
+com.jayway.restassured.RestAssured,sink,1202
+com.jayway.restassured.RestAssured,sink,1204
+com.jayway.restassured.RestAssured,sink,1205
+com.jayway.restassured.RestAssured,sink,1206
+com.jayway.restassured.RestAssured,sink,1207
+com.jayway.restassured.RestAssured,sink,1198
+com.jayway.restassured.RestAssured,sink,1199

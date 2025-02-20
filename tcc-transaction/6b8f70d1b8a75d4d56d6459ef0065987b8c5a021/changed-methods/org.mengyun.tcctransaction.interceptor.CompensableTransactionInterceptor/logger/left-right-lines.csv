@@ -1,0 +1,2 @@
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,sink,22
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,source,22

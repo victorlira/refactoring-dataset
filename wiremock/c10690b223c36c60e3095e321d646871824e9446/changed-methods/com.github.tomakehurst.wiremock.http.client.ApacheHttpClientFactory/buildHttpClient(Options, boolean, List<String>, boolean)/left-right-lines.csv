@@ -1,0 +1,4 @@
+com.github.tomakehurst.wiremock.http.client.ApacheHttpClientFactory,sink,32
+com.github.tomakehurst.wiremock.http.client.ApacheHttpClientFactory,sink,40
+com.github.tomakehurst.wiremock.http.client.ApacheHttpClientFactory,source,32
+com.github.tomakehurst.wiremock.http.client.ApacheHttpClientFactory,source,40

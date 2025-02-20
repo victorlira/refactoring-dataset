@@ -1,0 +1,2 @@
+org.springframework.cloud.config.server.environment.EnvironmentEncryptorEnvironmentRepository,sink,53
+org.springframework.cloud.config.server.environment.EnvironmentEncryptorEnvironmentRepository,source,53

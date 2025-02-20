@@ -1,0 +1,6 @@
+org.mengyun.tcctransaction.unittest.client.TransferService,source,27
+org.mengyun.tcctransaction.unittest.client.TransferService,source,28
+org.mengyun.tcctransaction.unittest.client.TransferService,source,29
+org.mengyun.tcctransaction.unittest.client.TransferService,sink,27
+org.mengyun.tcctransaction.unittest.client.TransferService,sink,28
+org.mengyun.tcctransaction.unittest.client.TransferService,sink,29

@@ -1,0 +1,6 @@
+tk.mybatis.mapper.provider.base.BaseInsertProvider,source,97
+tk.mybatis.mapper.provider.base.BaseInsertProvider,source,99
+tk.mybatis.mapper.provider.base.BaseInsertProvider,source,88
+tk.mybatis.mapper.provider.base.BaseInsertProvider,sink,97
+tk.mybatis.mapper.provider.base.BaseInsertProvider,sink,99
+tk.mybatis.mapper.provider.base.BaseInsertProvider,sink,88

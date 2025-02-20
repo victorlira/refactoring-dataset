@@ -1,0 +1,10 @@
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,source,218
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,source,219
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,source,205
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,source,206
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,source,207
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,sink,218
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,sink,219
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,sink,205
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,sink,206
+org.hswebframework.web.authorization.basic.handler.DefaultAuthorizingHandler,sink,207

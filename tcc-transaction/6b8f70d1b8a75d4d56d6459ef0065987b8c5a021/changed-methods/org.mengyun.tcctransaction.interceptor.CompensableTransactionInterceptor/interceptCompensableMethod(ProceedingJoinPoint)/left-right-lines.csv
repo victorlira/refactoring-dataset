@@ -1,0 +1,10 @@
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,sink,32
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,sink,33
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,sink,37
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,sink,39
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,sink,41
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,source,32
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,source,33
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,source,37
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,source,39
+org.mengyun.tcctransaction.interceptor.CompensableTransactionInterceptor,source,41

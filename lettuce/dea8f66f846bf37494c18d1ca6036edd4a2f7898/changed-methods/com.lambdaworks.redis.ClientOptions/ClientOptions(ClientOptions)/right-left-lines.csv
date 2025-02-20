@@ -1,0 +1,3 @@
+com.lambdaworks.redis.ClientOptions,source,50
+com.lambdaworks.redis.ClientOptions,sink,50
+com.lambdaworks.redis.ClientOptions,sink,51

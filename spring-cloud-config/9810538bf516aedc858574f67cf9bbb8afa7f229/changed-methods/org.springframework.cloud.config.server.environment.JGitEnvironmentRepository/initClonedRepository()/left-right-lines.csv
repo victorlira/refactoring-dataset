@@ -1,0 +1,4 @@
+org.springframework.cloud.config.server.environment.JGitEnvironmentRepository,sink,370
+org.springframework.cloud.config.server.environment.JGitEnvironmentRepository,sink,377
+org.springframework.cloud.config.server.environment.JGitEnvironmentRepository,source,370
+org.springframework.cloud.config.server.environment.JGitEnvironmentRepository,source,377

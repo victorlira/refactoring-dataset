@@ -1,0 +1,2 @@
+org.hswebframework.web.authorization.listener.event.AuthorizationDecodeEvent,sink,42
+org.hswebframework.web.authorization.listener.event.AuthorizationDecodeEvent,source,42

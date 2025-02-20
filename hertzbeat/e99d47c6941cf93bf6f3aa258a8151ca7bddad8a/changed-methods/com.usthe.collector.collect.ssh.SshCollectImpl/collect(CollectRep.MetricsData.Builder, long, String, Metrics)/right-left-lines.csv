@@ -1,0 +1,10 @@
+com.usthe.collector.collect.ssh.SshCollectImpl,source,88
+com.usthe.collector.collect.ssh.SshCollectImpl,source,89
+com.usthe.collector.collect.ssh.SshCollectImpl,source,90
+com.usthe.collector.collect.ssh.SshCollectImpl,source,94
+com.usthe.collector.collect.ssh.SshCollectImpl,source,95
+com.usthe.collector.collect.ssh.SshCollectImpl,sink,88
+com.usthe.collector.collect.ssh.SshCollectImpl,sink,89
+com.usthe.collector.collect.ssh.SshCollectImpl,sink,90
+com.usthe.collector.collect.ssh.SshCollectImpl,sink,94
+com.usthe.collector.collect.ssh.SshCollectImpl,sink,95

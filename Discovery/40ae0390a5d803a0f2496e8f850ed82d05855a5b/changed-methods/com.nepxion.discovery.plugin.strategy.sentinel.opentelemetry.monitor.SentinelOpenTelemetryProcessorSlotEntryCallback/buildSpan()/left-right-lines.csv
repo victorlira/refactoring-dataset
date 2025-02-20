@@ -1,0 +1,4 @@
+com.nepxion.discovery.plugin.strategy.sentinel.opentelemetry.monitor.SentinelOpenTelemetryProcessorSlotEntryCallback,sink,27
+com.nepxion.discovery.plugin.strategy.sentinel.opentelemetry.monitor.SentinelOpenTelemetryProcessorSlotEntryCallback,sink,28
+com.nepxion.discovery.plugin.strategy.sentinel.opentelemetry.monitor.SentinelOpenTelemetryProcessorSlotEntryCallback,source,27
+com.nepxion.discovery.plugin.strategy.sentinel.opentelemetry.monitor.SentinelOpenTelemetryProcessorSlotEntryCallback,source,28

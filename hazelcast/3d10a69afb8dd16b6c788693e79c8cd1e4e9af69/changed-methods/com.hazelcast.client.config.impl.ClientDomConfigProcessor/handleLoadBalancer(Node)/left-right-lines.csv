@@ -1,0 +1,5 @@
+com.hazelcast.client.config.impl.ClientDomConfigProcessor,sink,401
+com.hazelcast.client.config.impl.ClientDomConfigProcessor,sink,403
+com.hazelcast.client.config.impl.ClientDomConfigProcessor,source,405
+com.hazelcast.client.config.impl.ClientDomConfigProcessor,source,406
+com.hazelcast.client.config.impl.ClientDomConfigProcessor,source,407

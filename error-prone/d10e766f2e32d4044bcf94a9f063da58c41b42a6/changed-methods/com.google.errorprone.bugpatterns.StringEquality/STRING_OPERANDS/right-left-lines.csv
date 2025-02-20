@@ -1,0 +1,2 @@
+com.google.errorprone.bugpatterns.StringEquality,source,73
+com.google.errorprone.bugpatterns.StringEquality,sink,73

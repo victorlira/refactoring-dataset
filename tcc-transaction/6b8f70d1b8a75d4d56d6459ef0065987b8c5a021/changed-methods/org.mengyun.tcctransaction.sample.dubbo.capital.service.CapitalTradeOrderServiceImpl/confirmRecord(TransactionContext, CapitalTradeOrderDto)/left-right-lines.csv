@@ -1,0 +1,16 @@
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,sink,80
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,sink,81
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,sink,82
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,sink,87
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,sink,88
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,sink,77
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,sink,78
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,sink,79
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,source,80
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,source,81
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,source,82
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,source,87
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,source,88
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,source,77
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,source,78
+org.mengyun.tcctransaction.sample.dubbo.capital.service.CapitalTradeOrderServiceImpl,source,79

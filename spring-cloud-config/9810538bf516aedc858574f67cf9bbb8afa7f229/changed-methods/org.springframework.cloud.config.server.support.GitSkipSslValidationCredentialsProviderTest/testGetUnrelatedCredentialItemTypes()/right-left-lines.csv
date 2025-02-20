@@ -1,0 +1,6 @@
+org.springframework.cloud.config.server.support.GitSkipSslValidationCredentialsProviderTest,source,163
+org.springframework.cloud.config.server.support.GitSkipSslValidationCredentialsProviderTest,source,164
+org.springframework.cloud.config.server.support.GitSkipSslValidationCredentialsProviderTest,source,158
+org.springframework.cloud.config.server.support.GitSkipSslValidationCredentialsProviderTest,sink,163
+org.springframework.cloud.config.server.support.GitSkipSslValidationCredentialsProviderTest,sink,164
+org.springframework.cloud.config.server.support.GitSkipSslValidationCredentialsProviderTest,sink,158

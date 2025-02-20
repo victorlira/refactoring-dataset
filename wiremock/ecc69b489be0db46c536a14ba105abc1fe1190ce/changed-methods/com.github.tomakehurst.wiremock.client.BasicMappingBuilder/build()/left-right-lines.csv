@@ -1,0 +1,3 @@
+com.github.tomakehurst.wiremock.client.BasicMappingBuilder,sink,302
+com.github.tomakehurst.wiremock.client.BasicMappingBuilder,sink,303
+com.github.tomakehurst.wiremock.client.BasicMappingBuilder,source,291

@@ -1,0 +1,4 @@
+io.aeron.archiver.ArchiveConductor,sink,64
+io.aeron.archiver.ArchiveConductor,sink,63
+io.aeron.archiver.ArchiveConductor,source,54
+io.aeron.archiver.ArchiveConductor,source,58

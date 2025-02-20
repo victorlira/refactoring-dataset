@@ -1,0 +1,4 @@
+com.lambdaworks.redis.ConnectionCommandTest,source,45
+com.lambdaworks.redis.ConnectionCommandTest,sink,42
+com.lambdaworks.redis.ConnectionCommandTest,sink,45
+com.lambdaworks.redis.ConnectionCommandTest,sink,30

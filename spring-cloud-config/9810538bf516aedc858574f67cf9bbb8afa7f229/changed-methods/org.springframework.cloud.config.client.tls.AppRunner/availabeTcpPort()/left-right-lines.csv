@@ -1,0 +1,2 @@
+org.springframework.cloud.config.client.tls.AppRunner,sink,58
+org.springframework.cloud.config.client.tls.AppRunner,source,58

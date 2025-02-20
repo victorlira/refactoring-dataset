@@ -1,0 +1,6 @@
+org.springframework.cloud.config.client.ConfigClientPropertiesTests,sink,156
+org.springframework.cloud.config.client.ConfigClientPropertiesTests,sink,158
+org.springframework.cloud.config.client.ConfigClientPropertiesTests,sink,159
+org.springframework.cloud.config.client.ConfigClientPropertiesTests,source,156
+org.springframework.cloud.config.client.ConfigClientPropertiesTests,source,158
+org.springframework.cloud.config.client.ConfigClientPropertiesTests,source,159

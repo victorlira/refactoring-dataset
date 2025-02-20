@@ -1,0 +1,6 @@
+org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests,source,99
+org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests,source,92
+org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests,source,93
+org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests,sink,99
+org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests,sink,92
+org.springframework.cloud.config.server.encryption.CipherEnvironmentEncryptorTests,sink,93

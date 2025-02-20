@@ -1,0 +1,14 @@
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,source,102
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,source,103
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,source,104
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,source,105
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,source,106
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,source,107
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,source,108
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,sink,102
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,sink,103
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,sink,104
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,sink,105
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,sink,106
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,sink,107
+org.mengyun.tcctransaction.sample.dubbo.redpacket.service.RedPacketTradeOrderServiceImpl,sink,108

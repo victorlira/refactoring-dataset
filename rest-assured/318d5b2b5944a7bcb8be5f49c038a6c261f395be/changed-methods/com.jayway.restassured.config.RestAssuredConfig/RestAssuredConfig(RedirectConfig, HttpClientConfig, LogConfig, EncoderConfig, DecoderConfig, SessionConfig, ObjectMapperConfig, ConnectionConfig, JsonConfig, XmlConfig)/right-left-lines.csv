@@ -1,0 +1,6 @@
+com.jayway.restassured.config.RestAssuredConfig,source,88
+com.jayway.restassured.config.RestAssuredConfig,source,76
+com.jayway.restassured.config.RestAssuredConfig,source,77
+com.jayway.restassured.config.RestAssuredConfig,sink,88
+com.jayway.restassured.config.RestAssuredConfig,sink,76
+com.jayway.restassured.config.RestAssuredConfig,sink,77

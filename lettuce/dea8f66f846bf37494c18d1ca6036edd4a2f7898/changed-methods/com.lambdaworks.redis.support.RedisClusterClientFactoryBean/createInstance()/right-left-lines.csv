@@ -1,0 +1,8 @@
+com.lambdaworks.redis.support.RedisClusterClientFactoryBean,source,59
+com.lambdaworks.redis.support.RedisClusterClientFactoryBean,source,60
+com.lambdaworks.redis.support.RedisClusterClientFactoryBean,source,61
+com.lambdaworks.redis.support.RedisClusterClientFactoryBean,source,62
+com.lambdaworks.redis.support.RedisClusterClientFactoryBean,sink,59
+com.lambdaworks.redis.support.RedisClusterClientFactoryBean,sink,60
+com.lambdaworks.redis.support.RedisClusterClientFactoryBean,sink,61
+com.lambdaworks.redis.support.RedisClusterClientFactoryBean,sink,62

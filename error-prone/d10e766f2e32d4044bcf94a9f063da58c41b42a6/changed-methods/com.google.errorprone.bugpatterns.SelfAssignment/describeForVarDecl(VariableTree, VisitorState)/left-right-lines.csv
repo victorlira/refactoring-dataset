@@ -1,0 +1,2 @@
+com.google.errorprone.bugpatterns.SelfAssignment,sink,128
+com.google.errorprone.bugpatterns.SelfAssignment,source,128

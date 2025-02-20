@@ -1,0 +1,3 @@
+org.springframework.cloud.config.client.ConfigClientRequestTemplateFactory,sink,93
+org.springframework.cloud.config.client.ConfigClientRequestTemplateFactory,source,92
+org.springframework.cloud.config.client.ConfigClientRequestTemplateFactory,source,93

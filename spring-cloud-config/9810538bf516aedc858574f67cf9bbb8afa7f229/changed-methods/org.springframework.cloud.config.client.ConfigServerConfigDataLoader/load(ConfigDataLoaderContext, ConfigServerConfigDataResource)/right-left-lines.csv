@@ -1,0 +1,6 @@
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,96
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,97
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,source,95
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,96
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,97
+org.springframework.cloud.config.client.ConfigServerConfigDataLoader,sink,95

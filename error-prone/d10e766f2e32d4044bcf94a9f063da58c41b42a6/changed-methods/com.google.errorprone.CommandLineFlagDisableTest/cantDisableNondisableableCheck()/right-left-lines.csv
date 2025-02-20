@@ -1,0 +1,6 @@
+com.google.errorprone.CommandLineFlagDisableTest,source,121
+com.google.errorprone.CommandLineFlagDisableTest,source,122
+com.google.errorprone.CommandLineFlagDisableTest,source,124
+com.google.errorprone.CommandLineFlagDisableTest,sink,121
+com.google.errorprone.CommandLineFlagDisableTest,sink,122
+com.google.errorprone.CommandLineFlagDisableTest,sink,124

@@ -1,0 +1,6 @@
+kong.tests.AssertTest,sink,150
+kong.tests.AssertTest,sink,152
+kong.tests.AssertTest,sink,154
+kong.tests.AssertTest,source,150
+kong.tests.AssertTest,source,152
+kong.tests.AssertTest,source,154

@@ -1,0 +1,2 @@
+org.mengyun.tcctransaction.repository.helper.RedisHelper,sink,25
+org.mengyun.tcctransaction.repository.helper.RedisHelper,source,25

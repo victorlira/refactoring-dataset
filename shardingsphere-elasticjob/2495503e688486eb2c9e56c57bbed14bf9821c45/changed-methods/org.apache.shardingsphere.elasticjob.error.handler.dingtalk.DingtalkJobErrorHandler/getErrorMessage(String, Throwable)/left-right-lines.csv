@@ -1,0 +1,2 @@
+org.apache.shardingsphere.elasticjob.error.handler.dingtalk.DingtalkJobErrorHandler,sink,134
+org.apache.shardingsphere.elasticjob.error.handler.dingtalk.DingtalkJobErrorHandler,source,134

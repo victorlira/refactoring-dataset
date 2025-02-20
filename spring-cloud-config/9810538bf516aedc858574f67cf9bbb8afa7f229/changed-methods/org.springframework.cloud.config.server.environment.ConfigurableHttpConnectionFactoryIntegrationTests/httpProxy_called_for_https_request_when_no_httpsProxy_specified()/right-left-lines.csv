@@ -1,0 +1,6 @@
+org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests,source,177
+org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests,source,178
+org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests,source,172
+org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests,sink,177
+org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests,sink,178
+org.springframework.cloud.config.server.environment.ConfigurableHttpConnectionFactoryIntegrationTests,sink,172

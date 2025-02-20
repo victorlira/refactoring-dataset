@@ -1,0 +1,6 @@
+org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests,sink,275
+org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests,sink,278
+org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests,sink,279
+org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests,source,275
+org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests,source,278
+org.springframework.cloud.config.client.ConfigServicePropertySourceLocatorTests,source,279

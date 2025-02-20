@@ -1,0 +1,4 @@
+com.hazelcast.query.impl.predicates.RangeVisitorTest,sink,57
+com.hazelcast.query.impl.predicates.RangeVisitorTest,sink,58
+com.hazelcast.query.impl.predicates.RangeVisitorTest,source,57
+com.hazelcast.query.impl.predicates.RangeVisitorTest,source,58

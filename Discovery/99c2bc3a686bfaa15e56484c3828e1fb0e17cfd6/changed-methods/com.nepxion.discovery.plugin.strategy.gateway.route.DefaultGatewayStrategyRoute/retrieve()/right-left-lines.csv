@@ -1,0 +1,8 @@
+com.nepxion.discovery.plugin.strategy.gateway.route.DefaultGatewayStrategyRoute,source,80
+com.nepxion.discovery.plugin.strategy.gateway.route.DefaultGatewayStrategyRoute,source,74
+com.nepxion.discovery.plugin.strategy.gateway.route.DefaultGatewayStrategyRoute,source,78
+com.nepxion.discovery.plugin.strategy.gateway.route.DefaultGatewayStrategyRoute,source,79
+com.nepxion.discovery.plugin.strategy.gateway.route.DefaultGatewayStrategyRoute,sink,80
+com.nepxion.discovery.plugin.strategy.gateway.route.DefaultGatewayStrategyRoute,sink,74
+com.nepxion.discovery.plugin.strategy.gateway.route.DefaultGatewayStrategyRoute,sink,78
+com.nepxion.discovery.plugin.strategy.gateway.route.DefaultGatewayStrategyRoute,sink,79

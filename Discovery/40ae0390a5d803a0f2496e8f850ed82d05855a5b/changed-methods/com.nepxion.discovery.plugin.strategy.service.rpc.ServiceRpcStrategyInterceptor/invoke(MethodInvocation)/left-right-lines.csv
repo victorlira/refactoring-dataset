@@ -1,0 +1,8 @@
+com.nepxion.discovery.plugin.strategy.service.rpc.ServiceRpcStrategyInterceptor,sink,25
+com.nepxion.discovery.plugin.strategy.service.rpc.ServiceRpcStrategyInterceptor,sink,26
+com.nepxion.discovery.plugin.strategy.service.rpc.ServiceRpcStrategyInterceptor,sink,27
+com.nepxion.discovery.plugin.strategy.service.rpc.ServiceRpcStrategyInterceptor,sink,28
+com.nepxion.discovery.plugin.strategy.service.rpc.ServiceRpcStrategyInterceptor,source,25
+com.nepxion.discovery.plugin.strategy.service.rpc.ServiceRpcStrategyInterceptor,source,26
+com.nepxion.discovery.plugin.strategy.service.rpc.ServiceRpcStrategyInterceptor,source,27
+com.nepxion.discovery.plugin.strategy.service.rpc.ServiceRpcStrategyInterceptor,source,28

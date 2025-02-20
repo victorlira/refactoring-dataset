@@ -1,0 +1,3 @@
+com.yammer.metrics.stats.ExponentiallyDecayingSample,sink,67
+com.yammer.metrics.stats.ExponentiallyDecayingSample,sink,68
+com.yammer.metrics.stats.ExponentiallyDecayingSample,source,67

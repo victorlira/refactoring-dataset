@@ -1,0 +1,6 @@
+com.yammer.metrics.reporting.JmxReporter,source,461
+com.yammer.metrics.reporting.JmxReporter,source,462
+com.yammer.metrics.reporting.JmxReporter,source,463
+com.yammer.metrics.reporting.JmxReporter,sink,461
+com.yammer.metrics.reporting.JmxReporter,sink,462
+com.yammer.metrics.reporting.JmxReporter,sink,463

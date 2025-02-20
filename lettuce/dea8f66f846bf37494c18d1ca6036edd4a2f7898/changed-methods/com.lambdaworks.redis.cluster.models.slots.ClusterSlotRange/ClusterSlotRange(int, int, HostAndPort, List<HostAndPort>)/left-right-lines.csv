@@ -1,0 +1,4 @@
+com.lambdaworks.redis.cluster.models.slots.ClusterSlotRange,sink,57
+com.lambdaworks.redis.cluster.models.slots.ClusterSlotRange,sink,58
+com.lambdaworks.redis.cluster.models.slots.ClusterSlotRange,source,57
+com.lambdaworks.redis.cluster.models.slots.ClusterSlotRange,source,58

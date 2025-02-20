@@ -1,0 +1,5 @@
+com.hazelcast.client.bluegreen.FailoverConfigTest,sink,69
+com.hazelcast.client.bluegreen.FailoverConfigTest,sink,70
+com.hazelcast.client.bluegreen.FailoverConfigTest,sink,71
+com.hazelcast.client.bluegreen.FailoverConfigTest,source,58
+com.hazelcast.client.bluegreen.FailoverConfigTest,source,59

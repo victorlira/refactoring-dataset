@@ -1,0 +1,2 @@
+org.springframework.cloud.config.client.ConfigClientProperties,sink,342
+org.springframework.cloud.config.client.ConfigClientProperties,source,342
