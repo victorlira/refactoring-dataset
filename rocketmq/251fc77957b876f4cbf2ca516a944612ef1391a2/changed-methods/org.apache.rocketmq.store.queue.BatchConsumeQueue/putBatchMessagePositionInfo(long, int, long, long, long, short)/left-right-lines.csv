@@ -1,0 +1,2 @@
+org.apache.rocketmq.store.queue.BatchConsumeQueue,sink,507
+org.apache.rocketmq.store.queue.BatchConsumeQueue,source,507

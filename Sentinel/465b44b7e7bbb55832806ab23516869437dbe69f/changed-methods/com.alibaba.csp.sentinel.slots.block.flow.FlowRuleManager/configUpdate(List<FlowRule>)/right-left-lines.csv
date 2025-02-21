@@ -1,0 +1,2 @@
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleManager,source,128
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleManager,sink,128

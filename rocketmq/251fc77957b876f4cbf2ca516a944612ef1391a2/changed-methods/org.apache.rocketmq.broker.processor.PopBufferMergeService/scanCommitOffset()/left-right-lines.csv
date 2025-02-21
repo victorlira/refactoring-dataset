@@ -1,0 +1,4 @@
+org.apache.rocketmq.broker.processor.PopBufferMergeService,sink,140
+org.apache.rocketmq.broker.processor.PopBufferMergeService,sink,141
+org.apache.rocketmq.broker.processor.PopBufferMergeService,source,140
+org.apache.rocketmq.broker.processor.PopBufferMergeService,source,141

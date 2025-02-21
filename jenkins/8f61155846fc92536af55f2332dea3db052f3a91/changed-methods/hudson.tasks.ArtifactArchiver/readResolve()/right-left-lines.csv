@@ -1,0 +1,6 @@
+hudson.tasks.ArtifactArchiver,source,162
+hudson.tasks.ArtifactArchiver,source,163
+hudson.tasks.ArtifactArchiver,source,164
+hudson.tasks.ArtifactArchiver,sink,162
+hudson.tasks.ArtifactArchiver,sink,163
+hudson.tasks.ArtifactArchiver,sink,164

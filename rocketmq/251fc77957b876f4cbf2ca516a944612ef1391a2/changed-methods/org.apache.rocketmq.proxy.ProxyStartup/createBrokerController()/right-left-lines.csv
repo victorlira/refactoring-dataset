@@ -1,0 +1,14 @@
+org.apache.rocketmq.proxy.ProxyStartup,source,208
+org.apache.rocketmq.proxy.ProxyStartup,source,209
+org.apache.rocketmq.proxy.ProxyStartup,source,210
+org.apache.rocketmq.proxy.ProxyStartup,source,211
+org.apache.rocketmq.proxy.ProxyStartup,source,205
+org.apache.rocketmq.proxy.ProxyStartup,source,206
+org.apache.rocketmq.proxy.ProxyStartup,source,207
+org.apache.rocketmq.proxy.ProxyStartup,sink,208
+org.apache.rocketmq.proxy.ProxyStartup,sink,209
+org.apache.rocketmq.proxy.ProxyStartup,sink,210
+org.apache.rocketmq.proxy.ProxyStartup,sink,211
+org.apache.rocketmq.proxy.ProxyStartup,sink,205
+org.apache.rocketmq.proxy.ProxyStartup,sink,206
+org.apache.rocketmq.proxy.ProxyStartup,sink,207

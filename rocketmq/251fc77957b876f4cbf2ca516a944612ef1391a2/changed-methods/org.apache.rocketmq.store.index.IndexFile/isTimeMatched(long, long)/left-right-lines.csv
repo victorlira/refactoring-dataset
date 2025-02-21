@@ -1,0 +1,4 @@
+org.apache.rocketmq.store.index.IndexFile,sink,183
+org.apache.rocketmq.store.index.IndexFile,sink,184
+org.apache.rocketmq.store.index.IndexFile,source,183
+org.apache.rocketmq.store.index.IndexFile,source,184

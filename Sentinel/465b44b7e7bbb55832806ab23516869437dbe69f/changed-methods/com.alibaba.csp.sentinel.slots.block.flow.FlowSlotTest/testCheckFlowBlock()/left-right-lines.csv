@@ -1,0 +1,6 @@
+com.alibaba.csp.sentinel.slots.block.flow.FlowSlotTest,sink,81
+com.alibaba.csp.sentinel.slots.block.flow.FlowSlotTest,sink,87
+com.alibaba.csp.sentinel.slots.block.flow.FlowSlotTest,sink,90
+com.alibaba.csp.sentinel.slots.block.flow.FlowSlotTest,source,81
+com.alibaba.csp.sentinel.slots.block.flow.FlowSlotTest,source,87
+com.alibaba.csp.sentinel.slots.block.flow.FlowSlotTest,source,90

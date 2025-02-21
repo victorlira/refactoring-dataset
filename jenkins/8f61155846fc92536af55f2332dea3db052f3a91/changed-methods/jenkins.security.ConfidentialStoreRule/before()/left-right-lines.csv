@@ -1,0 +1,2 @@
+jenkins.security.ConfidentialStoreRule,sink,13
+jenkins.security.ConfidentialStoreRule,source,13

@@ -1,0 +1,4 @@
+org.apache.rocketmq.client.impl.consumer.DefaultMQPushConsumerImpl,source,729
+org.apache.rocketmq.client.impl.consumer.DefaultMQPushConsumerImpl,source,730
+org.apache.rocketmq.client.impl.consumer.DefaultMQPushConsumerImpl,sink,729
+org.apache.rocketmq.client.impl.consumer.DefaultMQPushConsumerImpl,sink,730

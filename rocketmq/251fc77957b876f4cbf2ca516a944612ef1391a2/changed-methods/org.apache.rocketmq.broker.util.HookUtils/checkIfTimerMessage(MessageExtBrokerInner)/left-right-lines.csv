@@ -1,0 +1,6 @@
+org.apache.rocketmq.broker.util.HookUtils,sink,149
+org.apache.rocketmq.broker.util.HookUtils,sink,150
+org.apache.rocketmq.broker.util.HookUtils,sink,151
+org.apache.rocketmq.broker.util.HookUtils,source,149
+org.apache.rocketmq.broker.util.HookUtils,source,150
+org.apache.rocketmq.broker.util.HookUtils,source,151

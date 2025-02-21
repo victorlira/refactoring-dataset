@@ -1,0 +1,6 @@
+com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowRule,source,181
+com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowRule,source,185
+com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowRule,source,186
+com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowRule,sink,181
+com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowRule,sink,185
+com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowRule,sink,186

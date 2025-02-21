@@ -1,0 +1,14 @@
+hudson.security.UnwrapSecurityExceptionFilter,sink,54
+hudson.security.UnwrapSecurityExceptionFilter,sink,55
+hudson.security.UnwrapSecurityExceptionFilter,sink,56
+hudson.security.UnwrapSecurityExceptionFilter,sink,57
+hudson.security.UnwrapSecurityExceptionFilter,sink,58
+hudson.security.UnwrapSecurityExceptionFilter,sink,59
+hudson.security.UnwrapSecurityExceptionFilter,sink,61
+hudson.security.UnwrapSecurityExceptionFilter,source,54
+hudson.security.UnwrapSecurityExceptionFilter,source,55
+hudson.security.UnwrapSecurityExceptionFilter,source,56
+hudson.security.UnwrapSecurityExceptionFilter,source,57
+hudson.security.UnwrapSecurityExceptionFilter,source,58
+hudson.security.UnwrapSecurityExceptionFilter,source,59
+hudson.security.UnwrapSecurityExceptionFilter,source,61

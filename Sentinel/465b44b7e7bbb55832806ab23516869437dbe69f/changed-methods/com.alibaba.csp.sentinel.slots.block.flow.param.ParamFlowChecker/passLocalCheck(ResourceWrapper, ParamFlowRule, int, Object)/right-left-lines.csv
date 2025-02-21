@@ -1,0 +1,2 @@
+com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowChecker,source,86
+com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowChecker,sink,86

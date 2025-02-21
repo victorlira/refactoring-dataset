@@ -1,0 +1,6 @@
+org.apache.rocketmq.tools.command.stats.StatsAllSubCommand,source,109
+org.apache.rocketmq.tools.command.stats.StatsAllSubCommand,source,94
+org.apache.rocketmq.tools.command.stats.StatsAllSubCommand,source,95
+org.apache.rocketmq.tools.command.stats.StatsAllSubCommand,sink,109
+org.apache.rocketmq.tools.command.stats.StatsAllSubCommand,sink,94
+org.apache.rocketmq.tools.command.stats.StatsAllSubCommand,sink,95

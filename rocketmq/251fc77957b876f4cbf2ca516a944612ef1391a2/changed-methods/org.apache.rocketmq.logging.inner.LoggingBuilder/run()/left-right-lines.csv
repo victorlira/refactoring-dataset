@@ -1,0 +1,2 @@
+org.apache.rocketmq.logging.inner.LoggingBuilder,sink,386
+org.apache.rocketmq.logging.inner.LoggingBuilder,source,386

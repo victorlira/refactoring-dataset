@@ -1,0 +1,2 @@
+org.apache.rocketmq.test.grpc.v2.GrpcBaseIT,sink,155
+org.apache.rocketmq.test.grpc.v2.GrpcBaseIT,source,155

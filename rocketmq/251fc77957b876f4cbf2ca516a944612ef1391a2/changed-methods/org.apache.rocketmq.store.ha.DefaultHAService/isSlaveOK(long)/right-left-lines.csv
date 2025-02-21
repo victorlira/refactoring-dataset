@@ -1,0 +1,4 @@
+org.apache.rocketmq.store.ha.DefaultHAService,source,102
+org.apache.rocketmq.store.ha.DefaultHAService,source,103
+org.apache.rocketmq.store.ha.DefaultHAService,sink,102
+org.apache.rocketmq.store.ha.DefaultHAService,sink,103

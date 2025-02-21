@@ -1,0 +1,8 @@
+jenkins.security.ConfidentialStore,source,73
+jenkins.security.ConfidentialStore,source,74
+jenkins.security.ConfidentialStore,source,75
+jenkins.security.ConfidentialStore,source,76
+jenkins.security.ConfidentialStore,sink,73
+jenkins.security.ConfidentialStore,sink,74
+jenkins.security.ConfidentialStore,sink,75
+jenkins.security.ConfidentialStore,sink,76

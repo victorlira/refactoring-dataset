@@ -1,0 +1,12 @@
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,sink,32
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,sink,33
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,sink,34
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,sink,35
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,sink,36
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,sink,37
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,source,32
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,source,33
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,source,34
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,source,35
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,source,36
+com.alibaba.csp.sentinel.slots.block.flow.FlowRuleComparator,source,37
