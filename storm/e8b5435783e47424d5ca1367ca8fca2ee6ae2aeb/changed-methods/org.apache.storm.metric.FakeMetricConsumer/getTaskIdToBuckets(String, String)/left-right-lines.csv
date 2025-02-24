@@ -1,0 +1,10 @@
+org.apache.storm.metric.FakeMetricConsumer,sink,35
+org.apache.storm.metric.FakeMetricConsumer,sink,36
+org.apache.storm.metric.FakeMetricConsumer,sink,37
+org.apache.storm.metric.FakeMetricConsumer,sink,38
+org.apache.storm.metric.FakeMetricConsumer,sink,39
+org.apache.storm.metric.FakeMetricConsumer,source,35
+org.apache.storm.metric.FakeMetricConsumer,source,36
+org.apache.storm.metric.FakeMetricConsumer,source,37
+org.apache.storm.metric.FakeMetricConsumer,source,38
+org.apache.storm.metric.FakeMetricConsumer,source,39

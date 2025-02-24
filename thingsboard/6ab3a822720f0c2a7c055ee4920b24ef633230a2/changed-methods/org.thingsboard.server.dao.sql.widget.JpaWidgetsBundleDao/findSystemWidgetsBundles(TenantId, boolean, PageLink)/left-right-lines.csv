@@ -1,0 +1,2 @@
+org.thingsboard.server.dao.sql.widget.JpaWidgetsBundleDao,sink,69
+org.thingsboard.server.dao.sql.widget.JpaWidgetsBundleDao,source,69

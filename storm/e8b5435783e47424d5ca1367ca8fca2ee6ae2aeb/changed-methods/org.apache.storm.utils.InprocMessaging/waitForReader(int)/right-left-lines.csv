@@ -1,0 +1,2 @@
+org.apache.storm.utils.InprocMessaging,source,69
+org.apache.storm.utils.InprocMessaging,sink,69

@@ -1,0 +1,4 @@
+org.thingsboard.server.dao.widget.WidgetsBundleServiceImpl,source,123
+org.thingsboard.server.dao.widget.WidgetsBundleServiceImpl,source,125
+org.thingsboard.server.dao.widget.WidgetsBundleServiceImpl,sink,123
+org.thingsboard.server.dao.widget.WidgetsBundleServiceImpl,sink,125

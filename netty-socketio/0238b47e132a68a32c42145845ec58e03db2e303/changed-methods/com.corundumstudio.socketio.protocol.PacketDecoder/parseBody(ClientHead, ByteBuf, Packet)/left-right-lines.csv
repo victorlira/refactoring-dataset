@@ -1,0 +1,3 @@
+com.corundumstudio.socketio.protocol.PacketDecoder,sink,292
+com.corundumstudio.socketio.protocol.PacketDecoder,source,304
+com.corundumstudio.socketio.protocol.PacketDecoder,source,305

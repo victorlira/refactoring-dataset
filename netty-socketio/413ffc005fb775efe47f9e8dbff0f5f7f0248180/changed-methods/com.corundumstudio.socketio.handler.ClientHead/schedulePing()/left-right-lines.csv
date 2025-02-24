@@ -1,0 +1,3 @@
+com.corundumstudio.socketio.handler.ClientHead,sink,136
+com.corundumstudio.socketio.handler.ClientHead,source,128
+com.corundumstudio.socketio.handler.ClientHead,source,136

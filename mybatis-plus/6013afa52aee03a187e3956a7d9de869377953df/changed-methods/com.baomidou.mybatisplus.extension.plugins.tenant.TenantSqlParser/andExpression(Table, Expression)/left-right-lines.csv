@@ -1,0 +1,2 @@
+com.baomidou.mybatisplus.extension.plugins.tenant.TenantSqlParser,sink,134
+com.baomidou.mybatisplus.extension.plugins.tenant.TenantSqlParser,source,134

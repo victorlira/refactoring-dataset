@@ -1,0 +1,10 @@
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,sink,261
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,sink,262
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,sink,263
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,sink,264
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,sink,265
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,source,261
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,source,262
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,source,263
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,source,264
+org.thingsboard.server.dao.sql.widget.JpaWidgetTypeDaoTest,source,265

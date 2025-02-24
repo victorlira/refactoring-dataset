@@ -1,0 +1,2 @@
+org.asynchttpclient.providers.netty4.NettyAsyncResponseTest,sink,56
+org.asynchttpclient.providers.netty4.NettyAsyncResponseTest,source,56

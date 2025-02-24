@@ -1,0 +1,8 @@
+org.apache.storm.executor.Executor,source,347
+org.apache.storm.executor.Executor,source,348
+org.apache.storm.executor.Executor,source,349
+org.apache.storm.executor.Executor,source,350
+org.apache.storm.executor.Executor,sink,347
+org.apache.storm.executor.Executor,sink,348
+org.apache.storm.executor.Executor,sink,349
+org.apache.storm.executor.Executor,sink,350

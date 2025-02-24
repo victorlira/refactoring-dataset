@@ -1,0 +1,2 @@
+com.baomidou.mybatisplus.extension.plugins.pagination.dialects.DialectRegistry,sink,50
+com.baomidou.mybatisplus.extension.plugins.pagination.dialects.DialectRegistry,source,50

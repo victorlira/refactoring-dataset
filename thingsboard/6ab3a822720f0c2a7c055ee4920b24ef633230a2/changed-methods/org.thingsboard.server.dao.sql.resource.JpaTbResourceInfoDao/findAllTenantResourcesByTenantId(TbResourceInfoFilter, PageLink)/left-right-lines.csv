@@ -1,0 +1,6 @@
+org.thingsboard.server.dao.sql.resource.JpaTbResourceInfoDao,sink,67
+org.thingsboard.server.dao.sql.resource.JpaTbResourceInfoDao,sink,72
+org.thingsboard.server.dao.sql.resource.JpaTbResourceInfoDao,sink,73
+org.thingsboard.server.dao.sql.resource.JpaTbResourceInfoDao,source,67
+org.thingsboard.server.dao.sql.resource.JpaTbResourceInfoDao,source,72
+org.thingsboard.server.dao.sql.resource.JpaTbResourceInfoDao,source,73

@@ -1,0 +1,2 @@
+org.apache.storm.command.UploadCredentials,sink,112
+org.apache.storm.command.UploadCredentials,source,112

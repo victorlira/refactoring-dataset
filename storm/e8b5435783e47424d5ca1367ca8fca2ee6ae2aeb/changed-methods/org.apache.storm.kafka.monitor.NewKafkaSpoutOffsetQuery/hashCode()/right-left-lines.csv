@@ -1,0 +1,4 @@
+org.apache.storm.kafka.monitor.NewKafkaSpoutOffsetQuery,source,107
+org.apache.storm.kafka.monitor.NewKafkaSpoutOffsetQuery,source,108
+org.apache.storm.kafka.monitor.NewKafkaSpoutOffsetQuery,sink,107
+org.apache.storm.kafka.monitor.NewKafkaSpoutOffsetQuery,sink,108
