@@ -1,0 +1,4 @@
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,source,85
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,source,86
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,sink,85
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,sink,86

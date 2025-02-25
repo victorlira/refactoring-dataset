@@ -1,0 +1,11 @@
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,source,112
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,source,113
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,source,114
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,source,115
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,source,117
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,source,111
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,sink,112
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,sink,113
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,sink,114
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,sink,117
+io.enmasse.barnabas.controller.cluster.resources.ZookeeperCluster,sink,111

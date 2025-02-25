@@ -1,0 +1,11 @@
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,sink,128
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,sink,130
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,sink,124
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,sink,125
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,sink,126
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,sink,127
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,source,130
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,source,124
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,source,125
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,source,126
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,source,127

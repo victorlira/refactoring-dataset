@@ -1,0 +1,3 @@
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,sink,261
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,sink,263
+io.enmasse.barnabas.controller.cluster.resources.KafkaCluster,source,263
