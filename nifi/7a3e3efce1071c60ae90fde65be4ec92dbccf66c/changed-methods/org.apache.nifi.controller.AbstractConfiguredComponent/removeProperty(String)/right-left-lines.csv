@@ -1,0 +1,4 @@
+org.apache.nifi.controller.AbstractConfiguredComponent,source,166
+org.apache.nifi.controller.AbstractConfiguredComponent,source,168
+org.apache.nifi.controller.AbstractConfiguredComponent,sink,166
+org.apache.nifi.controller.AbstractConfiguredComponent,sink,168

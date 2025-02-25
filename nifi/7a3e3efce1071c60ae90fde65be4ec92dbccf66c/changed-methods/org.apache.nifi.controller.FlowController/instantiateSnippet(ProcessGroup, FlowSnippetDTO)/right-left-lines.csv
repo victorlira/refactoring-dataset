@@ -1,0 +1,4 @@
+org.apache.nifi.controller.FlowController,source,1481
+org.apache.nifi.controller.FlowController,source,1599
+org.apache.nifi.controller.FlowController,sink,1481
+org.apache.nifi.controller.FlowController,sink,1599

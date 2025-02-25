@@ -1,0 +1,2 @@
+org.apache.nifi.cluster.manager.impl.ClusteredReportingContext,sink,59
+org.apache.nifi.cluster.manager.impl.ClusteredReportingContext,source,59

@@ -1,0 +1,2 @@
+org.apache.nifi.processors.standard.TestAbstractListProcessor,sink,205
+org.apache.nifi.processors.standard.TestAbstractListProcessor,source,205

@@ -1,0 +1,2 @@
+org.apache.nifi.controller.reporting.AbstractReportingTaskNode,sink,129
+org.apache.nifi.controller.reporting.AbstractReportingTaskNode,source,129
