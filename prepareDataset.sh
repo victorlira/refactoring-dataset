@@ -12,4 +12,4 @@ cat thingsboard/6ab3a822720f0c2a7c055ee4920b24ef633230a2/original-without-depend
 cat thingsboard/6ab3a822720f0c2a7c055ee4920b24ef633230a2/original-without-dependencies/merge/tb-snmp-transport-3.7.1-SNAPSHOT-boot.* > thingsboard/6ab3a822720f0c2a7c055ee4920b24ef633230a2/original-without-dependencies/merge/tb-snmp-transport-3.7.1-SNAPSHOT-boot.jar
 cat thingsboard/6ab3a822720f0c2a7c055ee4920b24ef633230a2/original-without-dependencies/merge/tb-http-transport-3.7.1-SNAPSHOT-boot.* > thingsboard/6ab3a822720f0c2a7c055ee4920b24ef633230a2/original-without-dependencies/merge/tb-http-transport-3.7.1-SNAPSHOT-boot.jar
 cat thingsboard/6ab3a822720f0c2a7c055ee4920b24ef633230a2/original-without-dependencies/merge/tb-mqtt-transport-3.7.1-SNAPSHOT-boot.* > thingsboard/6ab3a822720f0c2a7c055ee4920b24ef633230a2/original-without-dependencies/merge/tb-mqtt-transport-3.7.1-SNAPSHOT-boot.jar
-
+cat bisq/a090f2aa27529d9ca75c94aa30c66d3985e80ecf/original-without-dependencies/merge/p2p.* > bisq/a090f2aa27529d9ca75c94aa30c66d3985e80ecf/original-without-dependencies/merge/p2p.jar
