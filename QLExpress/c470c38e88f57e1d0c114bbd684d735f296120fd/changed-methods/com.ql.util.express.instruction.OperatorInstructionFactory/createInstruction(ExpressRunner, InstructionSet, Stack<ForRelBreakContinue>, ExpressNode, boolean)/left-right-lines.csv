@@ -1,0 +1,10 @@
+com.ql.util.express.instruction.OperatorInstructionFactory,sink,33
+com.ql.util.express.instruction.OperatorInstructionFactory,sink,35
+com.ql.util.express.instruction.OperatorInstructionFactory,sink,37
+com.ql.util.express.instruction.OperatorInstructionFactory,sink,39
+com.ql.util.express.instruction.OperatorInstructionFactory,sink,30
+com.ql.util.express.instruction.OperatorInstructionFactory,source,33
+com.ql.util.express.instruction.OperatorInstructionFactory,source,35
+com.ql.util.express.instruction.OperatorInstructionFactory,source,37
+com.ql.util.express.instruction.OperatorInstructionFactory,source,39
+com.ql.util.express.instruction.OperatorInstructionFactory,source,30
